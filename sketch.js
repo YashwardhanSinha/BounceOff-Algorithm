@@ -19,7 +19,7 @@ function setup() {
     gameObject2 = createSprite(700,100,50,50);
     gameObject2.shapeColor  = "green"
     gameObject2.debug = true;
-    gameObject2.velocityX = -4;
+    gameObject2.velocityX = -4
 
 }
 
